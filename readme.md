@@ -83,3 +83,11 @@ function $initHighlight(block, cls) {
 | -----  | -------- | --------- |
 | Maxi   | Burgos   | 3546481   |
 | Tomas  | Tompson  | 3243243   |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+ > Esto es un cita.
+
+ Esto es otro texto que no se relaciona con la cita anterior:
+ > Esto es otra cita
+
